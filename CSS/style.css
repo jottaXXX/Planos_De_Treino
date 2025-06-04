@@ -76,3 +76,11 @@ header p {
     font-size: 0.95rem;
     color: #555;
 }
+
+.rodape{
+    background-color:#00bcd4;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+}
